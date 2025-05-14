@@ -48,7 +48,7 @@ int main()
   for (int i = 0 ; i < n ; i++ )
   {
     // cout << "Enter the value " << i << " ";
-    cin >> scoure[i];
+    cin >> scoure[];
   }
 
   int count = 0;
